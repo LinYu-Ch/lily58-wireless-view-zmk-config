@@ -22,7 +22,7 @@
 
             display-name = "Base";
             bindings = <
-&kp DEL         &kp Q         &kp W      &kp F             &kp P              &kp G                                  &kp J          &kp L     &kp U         &kp Y      &kp SEMICOLON  &kp NON_US_BACKSLASH
+&kp DEL         &kp Q         &kp W      &kp F             &kp P              &kp G                                  &kp J          &kp L     &kp U         &kp Y      &kp SEMICOLON  &kp BACKSLASH
 &kp TAB         &kp A         &kp R      &kp S             &kp T              &kp D                                  &kp H          &kp N     &kp E         &kp I      &kp O          &kp SQT
 &kp LEFT_SHIFT  &kp Z         &kp X      &kp C             &kp V              &kp B                                  &kp K          &kp M     &kp COMMA     &kp DOT    &kp SLASH      &kp RIGHT_SHIFT
 &kp LCTRL       &kp LEFT_GUI  &kp GRAVE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_ALT   &mo 2        &mo 1      &kp LEFT       &kp DOWN  &kp UP_ARROW  &kp RIGHT  &kp MINUS      &kp EQUAL
